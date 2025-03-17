@@ -1,0 +1,10 @@
+Please ensure that you have a JPG image named `coffee-beans-background.jpg` in the `public` directory of your Next.js project.
+
+The image should adhere to the following specifications:
+
+- File Type: JPG
+- Dimensions: 1920x1080 pixels
+- Resolution: 72 DPI
+- Content: A pattern or close-up shot of coffee beans.
+- Color Scheme: Browns and creams, aligning with the Coffee World aesthetic.
+- Responsive Behavior: The image will be used with `background-size: cover;` in CSS to scale proportionally and cover the entire background.
